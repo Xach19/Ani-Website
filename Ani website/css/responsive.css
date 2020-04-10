@@ -1,0 +1,40 @@
+@media screen and (max-width:800px){
+  .nav-item{
+    width: 23%;
+  }
+  #section1{
+    padding-top: 60px;
+  }
+  .column {
+   flex: 50%;
+   max-width: 50%;
+ }
+}
+@media screen and (max-width:600px){
+  #jumbo_text{
+    display: none;
+  }
+  #text_responsive{
+    display: block;
+    font-size: 23px;
+  }
+  #col_text{
+    font-size: 23px;
+  }
+  .btn{
+    display: block;
+  }
+  #jumbo_h1{
+    font-size: 35px;
+    margin-bottom: 15px;
+  }
+  .h2{
+    font-size: 40px;
+  }
+}
+.row{
+  padding: 10px;
+}
+#section2{
+  padding-top: 20px;
+}
