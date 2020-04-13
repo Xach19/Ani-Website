@@ -2,9 +2,6 @@
     #section1 {
         padding-top: 60px;
     }
-    .jumbotron {
-        background-image: url(images/jumboBg_mobile.jpg);
-    }
     .column {
         flex: 50%;
         max-width: 50%;
@@ -30,9 +27,6 @@
 }
 
 @media screen and (max-width:600px) {
-    .jumbotron {
-        background-image: url(images/jumboBg_mobile1.jpg);
-    }
     .topnav {
         display: block;
         font-family: myfont_light;
