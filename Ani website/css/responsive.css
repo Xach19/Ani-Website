@@ -67,10 +67,14 @@
         display: block;
     }
     #jumbo_h1 {
-        font-size: 35px;
+        font-size: 30px;
         margin-bottom: 15px;
     }
-    h1 {
+    #headline {
+        font-size: 50px;
+        margin-top: 10px;
+    }
+    .h1 {
         padding-top: 25px;
     }
     .h2 {
@@ -85,7 +89,6 @@
     #section2 h1 {
         font-size: 50px;
         padding-top: 35px;
-        padding-bottom: 10px;
     }
     #section2 p {
         display: block;

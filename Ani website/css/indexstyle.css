@@ -82,9 +82,12 @@ h3 {
 }
 
 .jumbotron h1 {
-    margin-top: 23px;
-    color: rgb(0, 78, 112);
+    color: rgb(70, 72, 190);
     margin-bottom: 25px;
+}
+
+#headline {
+    color: white;
 }
 
 #jumbo_text {
